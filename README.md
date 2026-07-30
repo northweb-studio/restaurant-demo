@@ -1,38 +1,43 @@
-# Restaurant Demo
+# Restaurant Website
 
-A modern restaurant demo website built with React and TypeScript.
+A modern and responsive restaurant website built with HTML, CSS, and JavaScript. The website is designed to showcase a restaurant's menu, services, and contact information with a clean and user-friendly interface.
 
 ## Features
 
-- Modern responsive design
-- Restaurant menu
+- Responsive design for all devices
 - Hero section
 - About section
-- Gallery
+- Restaurant menu
+- Image gallery
 - Contact section
-- Mobile friendly
-- Fast and clean UI
+- Smooth scrolling navigation
+- Interactive UI with JavaScript
+- Fast and lightweight
 
-## Technologies
+## Technologies Used
 
-- React
-- TypeScript
-- Vite
-- CSS
+- HTML5
+- CSS3
+- JavaScript 
 
-## Installation
+## Customization
 
-```bash
-npm install
-npm run dev
-```
+You can easily customize:
+- Restaurant name and logo
+- Menu items and prices
+- Images
+- Colors and fonts
+- Contact information
+- Social media links
 
-## Build
+## Browser Support
 
-```bash
-npm run build
-```
+The website works on all modern browsers, including:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
 
 ## Author
 
-North Web Studio
+**North Web Studio**
